@@ -1,0 +1,176 @@
+.header__bg{
+    background-image: url(img/photo_2022-01-29_11-19-39.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.container{
+    max-width: 1000px;
+    margin: 0px auto;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul li{
+    margin-right: 40px;
+    display: inline-block;
+}
+
+ul li a{
+    font-size: 14px;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+}
+.header__nav{
+    padding-top: 25px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+.header__content{
+    color: white;
+    margin-top: 200px;
+    text-align: center;
+}
+.header__content h2{
+    font-weight: normal;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+
+}
+.header__content h1{
+    font-size: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+.header__content a{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    background-color: #fed136;
+    padding: 25px 50px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+.service__content{
+    text-align: center;
+    padding-top: 50px;
+}
+.service__content h1{
+    text-transform: uppercase;
+}
+.boxs{
+    text-align: center;
+    width: 300px;
+}
+.service__content__box{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 120px;
+}
+
+.main__bg{
+    background-image: url(img/gray.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+
+.main{
+    color: #777777;
+    max-width: 1000px;
+    margin: 0px auto;
+}
+
+.name__portfolio{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 130px;
+    text-align: center;
+}
+
+.name__portfolio h2{
+    font-size: 40px;
+    
+    text-transform: uppercase;
+    color:#222222;
+}
+
+.main__content{
+    padding-top: 80px;
+    padding-bottom: 140px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.about{
+    padding-top: 120px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.about h2{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: bold;
+    
+    color: black;
+}
+.about p{
+    
+    color: gray;
+}
+
+.left__box{
+    width: 250px;
+    text-align: right;
+}
+.right__box{
+    width: 250px;
+    text-align: left;
+}
+
+.img-box{
+    
+    text-align: center;
+}
+
+
+.last_container{
+    max-width: 1000px;
+    margin: 0px auto;
+}
+
+.left__box p{
+    font-size: 14px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.right__box p{
+    font-size:14px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.p{
+    padding-top: 120px;
+    text-align: center;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
